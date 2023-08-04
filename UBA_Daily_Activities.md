@@ -18,3 +18,5 @@ Creation of UBA account & email account
 - Power BI To be used for analytics
 - Work Task- Analytics, queries
 - Learned onb using TRIM- to remove white spaces.
+
+# **Day 4**
