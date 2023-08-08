@@ -24,3 +24,5 @@ Tasks for August 4th, 2023:
 - Identify how to terminate a session on Toad for Oracle Database related to a query session.
 - Recognize the various servers utilized in UBA, including up to 5 server port addresses.
 - Identify automated reports within SharePoint, employed for scheduling reports to consumers or end users.
+- Identify the causes of scheduled report failures, such as data size issues, incorrect email settings, etc.
+- Take note of and acquire knowledge about creating a table from a query using the "AS" keyword.
