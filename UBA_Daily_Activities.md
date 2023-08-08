@@ -26,3 +26,5 @@ Tasks for August 4th, 2023:
 - Identify automated reports within SharePoint, employed for scheduling reports to consumers or end users.
 - Identify the causes of scheduled report failures, such as data size issues, incorrect email settings, etc.
 - Take note of and acquire knowledge about creating a table from a query using the "AS" keyword.
+- Receive orientation on UBA bank data policy and dress code, emphasizing careful handling of information, especially in company systems.
+- Identify UBA's distinct database sources, including Finacle as the primary OLTP database, Oracle and Microsoft servers, and enterprise database platforms like Vision (Oracle) and SharePoint (Microsoft SQL Server), which also involve SSRS report tools.
