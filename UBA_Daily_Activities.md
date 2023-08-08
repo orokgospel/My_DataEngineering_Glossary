@@ -20,4 +20,7 @@ Creation of UBA account & email account
 - Learned onb using TRIM- to remove white spaces.
 
 # **Day 4**
-
+Tasks for August 4th, 2023:
+- Identify how to terminate a session on Toad for Oracle Database related to a query session.
+- Recognize the various servers utilized in UBA, including up to 5 server port addresses.
+- Identify automated reports within SharePoint, employed for scheduling reports to consumers or end users.
