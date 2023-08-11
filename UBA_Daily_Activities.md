@@ -54,7 +54,7 @@ Tasks for August 9th, 2023:
 
 
 
-# **Day 6**
+# **Day 8**
 Tasks for August 8th, 2023:
 
 
