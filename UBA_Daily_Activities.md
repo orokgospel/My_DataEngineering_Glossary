@@ -49,7 +49,9 @@ Tasks for August 8th, 2023:
 
 # **Day 7**
 Tasks for August 9th, 2023:
-
+- SQL window functions like LEAD, LAG, and RANK employed in conjunction with the "OVER" clause.
+- Various SQL data transformation tasks encompassing filtering, selection, aggregation, and string manipulation.
+- Data pooling tasks addressed.
 
 
 
