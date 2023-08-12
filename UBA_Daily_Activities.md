@@ -43,7 +43,14 @@ Tasks for August 7th, 2023:
 
 # **Day 6**
 Tasks for August 8th, 2023:
+**Data Extraction:** The process involves retrieving tables (columns) from both Microsoft SQL Server and Oracle databases. A query is made to obtain transaction details containing column information from both the Oracle and Microsoft SQL Server databases. The challenge lies in effectively joining the column specifics from the Oracle and Microsoft SQL Server databases to attain the necessary comprehensive transaction details.
 
+Additionally, there exist distinct SQL languages tailored for diverse data operations:
+- **DML (Data Manipulation Language)**: This language deals with modifying and managing data within the database.
+- **DCL (Data Control Language)**: Pertains to the management of permissions and access rights to the data.
+- **TCL (Transaction Control Language)**: Focuses on managing the transactional aspects of the database, like committing or rolling back transactions.
+- **DDL (Data Definition Language)**: Involves defining and altering the structure of the database objects.
+- **DSL (Domain Specific Language)**: A specialized language addressing specific domains or industries.
 
 
 
