@@ -62,5 +62,8 @@ Tasks for August 10th, 2023:
 
 # **Day 9**
 Tasks for August 11th, 2023:
-
+- Explored the concept of data pivoting within SQL, which involves transforming rows into columns, typically utilized in scenarios such as grouping or aggregating data.
+- Examined Infosys-Finacle's role in providing Core Banking Services (CBS), particularly in the context of its application at UBA bank. This system facilitates the management of the bank's database storage using Oracle. It handles various daily operational activities through Oracle, which serves as the Online Transaction Processing (OLTP) system. Subsequently, the data is transferred to the Vision Enterprise database using ETL for Online Analytical Processing (OLAP), managed by the bank's analytics teams.
+- Explored the concept of SQL views, which are essentially virtual tables created within the database.
+- Investigated the distinctions between Oracle SQL and Microsoft SQL Server, focusing on a comparative analysis of their respective syntax and functionalities.
 
