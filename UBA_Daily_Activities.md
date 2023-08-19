@@ -87,4 +87,5 @@ The dataset in excel carries the account details and federal ministry of employe
 i filter a months of salary payment that's mixed with statements which carry months, salary, and other different transaction words and characters in a payment_transaction_details column of a transaction table and also get the account_number, account_name, and employer.
 
 
-
+How to use DBExporter, on a server
+you need to input the from table name in the diaglog box.
