@@ -76,3 +76,12 @@ Tasks for August 11th, 2023:
 - Explored the concept of SQL views, which are essentially virtual tables created within the database.
 - Investigated the distinctions between Oracle SQL and Microsoft SQL Server, focusing on a comparative analysis of their respective syntax and functionalities.
 
+
+
+
+  16/8/2023
+Worked on Dataset to help federal government know those that are qualified for loans.
+The dataset in excel carries the account details and federal ministry of employees.
+
+
+
