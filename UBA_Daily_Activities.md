@@ -81,6 +81,11 @@ Tasks for August 11th, 2023:
 # **Day 10**
 14/8/2023
 
+
+
+# **Day 11**
+15/8/2023
+
   16/8/2023
 Worked on Dataset to help federal government know those that are qualified for loans.
 The dataset in excel carries the account details and federal ministry of employees.
