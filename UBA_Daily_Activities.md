@@ -86,9 +86,11 @@ Tasks for August 11th, 2023:
 # **Day 11**
 15/8/2023
 
-  16/8/2023
+# **Day 12**
+16/8/2023
 Worked on Dataset to help federal government know those that are qualified for loans.
 The dataset in excel carries the account details and federal ministry of employees.
+
 
 17/8/2023
 i filter a months of salary payment that's mixed with statements which carry months, salary, and other different transaction words and characters in a payment_transaction_details column of a transaction table and also get the account_number, account_name, and employer.
