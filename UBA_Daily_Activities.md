@@ -101,5 +101,6 @@ i filter a months of salary payment that's mixed with statements which carry mon
 How to use DBExporter, on a server
 you need to input the from table name in the diaglog box.
 
-
+# **Day 14**
+17/8/2023
 
