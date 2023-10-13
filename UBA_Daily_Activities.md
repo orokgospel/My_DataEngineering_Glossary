@@ -107,7 +107,7 @@ you need to input the from table name in the diaglog box.
 # **Day 16**
 17/8/2023
 
-# **Day 14**
+# **Day 17**
 17/8/2023
 
 # **Day 14**
