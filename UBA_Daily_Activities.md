@@ -133,6 +133,20 @@ you need to input the from table name in the diaglog box.
 # **Day 25**
 29/8/2023
 
-# **Day 22**
+# **Day 26**
 30/8/2023
 I have experience using SQL to determine a customer's age by utilizing system date or system time alongside their birthdate. Additionally, I'm proficient in employing the "||" operator in Oracle SQL to combine two columns or fields within a table. I'm skilled in using commas in Oracle SQL for performing inner joins, and I'm also familiar with using the "(+)" symbol to execute left or right joins.
+
+
+# **Day 2**
+26/8/2023
+
+
+# **Day 22**
+26/8/2023
+
+# **Day 22**
+26/8/2023
+
+# **Day 22**
+26/8/2023
