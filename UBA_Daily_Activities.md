@@ -97,15 +97,15 @@ i filter a months of salary payment that's mixed with statements which carry mon
 
 
 # **Day 14**
-17/8/2023
+18/8/2023
 How to use DBExporter, on a server
 you need to input the from table name in the diaglog box.
 
 # **Day 15**
-17/8/2023
+19/8/2023
 
 # **Day 16**
-17/8/2023
+20/8/2023
 
 # **Day 17**
 17/8/2023
@@ -118,7 +118,7 @@ you need to input the from table name in the diaglog box.
 17/8/2023
 
 # **Day 20**
-17/8/2023\
+17/8/2023
 
 
 # **Day 14**
