@@ -38,9 +38,6 @@ Tasks for August 7th, 2023:
 
 
 
-
-
-
 # **Day 6**
 Tasks for August 8th, 2023:
 
@@ -130,9 +127,8 @@ you need to input the from table name in the diaglog box.
 # **Day 23**
 27/8/2023
 
-
-Day 18
-Day
+# **Day 24**
+28/8/2023
 
 
 30/8/2023
