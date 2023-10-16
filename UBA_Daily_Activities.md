@@ -1,4 +1,4 @@
-![image](https://github.com/orokgospel/My_DataEngineering_Glossary/assets/51316483/118dbaee-cacf-451d-8807-d8a2bb767dff)## My Daily ACtivities Records
+## My Daily ACtivities Records
 
 # **Day 1**
 Tasks for August 1st, 2023:
