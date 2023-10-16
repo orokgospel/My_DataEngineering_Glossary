@@ -1,4 +1,4 @@
-## My Daily ACtivities Records
+![image](https://github.com/orokgospel/My_DataEngineering_Glossary/assets/51316483/118dbaee-cacf-451d-8807-d8a2bb767dff)## My Daily ACtivities Records
 
 # **Day 1**
 Tasks for August 1st, 2023:
@@ -150,3 +150,7 @@ I have experience using SQL to determine a customer's age by utilizing system da
 
 # **Day 22**
 26/8/2023
+
+
+16/10/2023
+To generate an SQL code that can trigger an output report when the values in column1 of the table do not have the expected values in column2
