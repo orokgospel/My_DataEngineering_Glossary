@@ -151,6 +151,8 @@ I have experience using SQL to determine a customer's age by utilizing system da
 # **Day 22**
 26/8/2023
 
+12/10/2023
+To trim the result of a SQL query using a CASE statement and TRIM, you can use the CASE statement to conditionally apply the TRIM function to the result of the query.
 
 16/10/2023
 Task1: To generate an SQL code that can trigger an output report when the values in column1 of the table do not have the expected values in column2.
