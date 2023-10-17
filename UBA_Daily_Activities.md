@@ -159,3 +159,7 @@ Task1: To generate an SQL code that can trigger an output report when the values
 Task2: In Excel, you can concatenate (combine) three or more values using the CONCATENATE function or the & operator.
 =CONCATENATE(A1, B1, C1).
 
+17/10/2023
+Deploying SQL Server SSRS using parameterization
+with @startdate and @endate for input.
+using <> for making condition of equal to
