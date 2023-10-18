@@ -163,3 +163,8 @@ Task2: In Excel, you can concatenate (combine) three or more values using the CO
 Deploying SQL Server SSRS using parameterization
 with @startdate and @endate for input.
 using <> for making condition of equal to
+
+18/10/2023
+How to know the execution time plan of an SQL Script.
+explain plan for (SQL script)
+SELECT * FROM TABLE(DBMS.XPLAIN.DISPLAY)
