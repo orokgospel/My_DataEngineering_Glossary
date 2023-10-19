@@ -166,5 +166,5 @@ using <> for making condition of equal to
 
 18/10/2023
 How to know the execution time plan of an SQL Script.
-explain plan for (SQL script)
-SELECT * FROM TABLE(DBMS.XPLAIN.DISPLAY)
+EXPLAIN PLAN FOR plan for (SQL script)
+SELECT * FROM TABLE(DBMS.XPLAN.DISPLAY)
