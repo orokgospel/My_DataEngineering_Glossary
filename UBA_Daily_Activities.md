@@ -168,3 +168,4 @@ using <> for making condition of equal to
 How to know the execution time plan of an SQL Script.
 EXPLAIN PLAN FOR plan for (SQL script)
 SELECT * FROM TABLE(DBMS.XPLAN.DISPLAY)
+Work on USING GROUP BY, MAX DATETIME
