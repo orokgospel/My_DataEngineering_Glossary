@@ -169,3 +169,6 @@ How to know the execution time plan of an SQL Script.
 EXPLAIN PLAN FOR plan for (SQL script)
 SELECT * FROM TABLE(DBMS.XPLAN.DISPLAY)
 Work on USING GROUP BY, MAX DATETIME
+
+20/10/2023
+How to use sum, Max and Min 
