@@ -174,3 +174,6 @@ Work on USING GROUP BY, MAX DATETIME
 
 20/10/2023
 How to use sum, Max and Min 
+
+24/10/2023
+Using Sub query on sum, count on another select count and sum.
