@@ -157,7 +157,7 @@ To trim the result of a SQL query using a CASE statement and TRIM, you can use t
 16/10/2023
 Task1: To generate an SQL code that can trigger an output report when the values in column1 of the table do not have the expected values in column2.
 Task2: In Excel, you can concatenate (combine) three or more values using the CONCATENATE function or the & operator.
-=CONCATENATE(A1, B1, C1).
+=CONCATENATE("'",A1,"'",",").
 
 17/10/2023
 Deploying SQL Server SSRS using parameterization
@@ -177,3 +177,6 @@ How to use sum, Max and Min
 
 24/10/2023
 Using Sub query on sum, count on another select count and sum.
+
+25/10/2023
+Using Bracket when using Like and so many OR condition in where Like ('%Word%')
