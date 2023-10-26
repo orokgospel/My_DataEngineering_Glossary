@@ -180,3 +180,7 @@ Using Sub query on sum, count on another select count and sum.
 
 25/10/2023
 Using Bracket when using Like and so many OR condition in where Like ('%Word%')
+
+26/10/2023
+Spooling Records from Oracle toad using Delimited txt and Pipe.
+Convert Txt records to excel
