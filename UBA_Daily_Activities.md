@@ -184,3 +184,6 @@ Using Bracket when using Like and so many OR condition in where Like ('%Word%')
 26/10/2023
 Spooling Records from Oracle toad using Delimited txt and Pipe.
 Convert Txt records to excel
+
+30/10/2023
+To get Customers Age using date of birth
