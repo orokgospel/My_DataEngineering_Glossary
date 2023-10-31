@@ -190,3 +190,6 @@ To get Customers Age using date of birth
 TRUNC(MONTHS_BETWEEN(SYSDATE, DATE_of_birth)/12 as customer_age;
 
 Condition: BETWEEN 50 and 75
+
+31/10/2023
+Used Postgres SQL for Leo transaction Report
