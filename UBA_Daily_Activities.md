@@ -199,3 +199,5 @@ Use Date: date_trunc(d,timestamp)=current_date-interval '1 day'
 02/11/2023
 
 Getting and Automating Report to drop with records of previous day and the records in the next day 6hrs
+
+Postgress SSRS Report deployment Connection with ODBC Open database connectivity to enable database to connect with other programs.
