@@ -194,4 +194,8 @@ Condition: BETWEEN 50 and 75
 31/10/2023
 Used Postgres SQL for Leo transaction Report
 Use Date: date_trunc(d,timestamp)=current_date-interval '1 day'
-us
+
+
+02/11/2023
+
+Getting and Automating Report to drop with records of previous day and the records in the next day 6hrs
