@@ -204,3 +204,7 @@ Postgress SSRS Report deployment Connection with ODBC Open database connectivity
 
 03/11/2023
 SERVER connection management
+
+06/11/2023
+Using Regex to remove white spaces or characters in Sql that causes records queried to break:
+regexp_replace(column,'[^A-Z0-9 ]',") newname
