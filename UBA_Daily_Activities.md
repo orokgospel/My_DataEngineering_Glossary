@@ -208,3 +208,7 @@ SERVER connection management
 06/11/2023
 Using Regex to remove white spaces or characters in Sql that causes records queried to break:
 regexp_replace(column,'[^A-Z0-9 ]',") newname
+
+
+07/11/2023
+How to make number Values like amount to be Negative in a column
