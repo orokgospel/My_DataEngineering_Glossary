@@ -212,3 +212,4 @@ regexp_replace(column,'[^A-Z0-9 ]',") newname
 
 07/11/2023
 How to make number Values like amount to be Negative in a column
+select (Columnname *-1) from table
