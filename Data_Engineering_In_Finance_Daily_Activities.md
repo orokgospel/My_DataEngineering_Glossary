@@ -207,6 +207,8 @@ SERVER connection management
 06/11/2023
 Using Regex to remove white spaces or characters in Sql that causes records queried to break:
 regexp_replace(column,'[^A-Z0-9 ]',") newname
+09/11/2023
+SQL python for supervise and unsupervised machine learning model for finance data analytics DW team.
 
 
 07/11/2023
