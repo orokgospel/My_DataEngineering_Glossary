@@ -217,3 +217,7 @@ select (Columnname *-1) from table
 
 08/11/2023
 to determine fraud account
+
+10/11/2023
+Did First ETL Using SSIS involving moving
+Records from Oracle database to MS Sql server database.
