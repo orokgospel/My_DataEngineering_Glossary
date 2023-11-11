@@ -232,3 +232,7 @@ SELECT
     t2.column3 AS t2_column3,
     t2.column4 AS t2_column4
 FROM Table1 t1, Table2 t2 WHERE t1.common_column = t2.common_column;
+-- Step 2: Create Indexes on the Joined Table
+CREATE INDEX idx_t1_column1 ON JoinedTable(t1_column1);
+CREATE INDEX idx_t2_column3 ON JoinedTable(t2_column3); -- Note: Adjust the column names and data types according to your actual tables.
+
