@@ -221,6 +221,7 @@ to determine fraud account
 10/11/2023
 Did First ETL Using SSIS involving moving
 Records from Oracle database to MS Sql server database.
+ETL project with SSIS, orchestrating the seamless migration of records from an Oracle database to a Microsoft SQL Server database.
 
 11/11/2023
 To create a selected table from two tables joined and queried in Oracle SQL with indexes to help increase query speed.
