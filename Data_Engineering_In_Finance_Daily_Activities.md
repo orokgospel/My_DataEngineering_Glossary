@@ -159,43 +159,43 @@ Task1: To generate an SQL code that can trigger an output report when the values
 Task2: In Excel, you can concatenate (combine) three or more values using the CONCATENATE function or the & operator.
 =CONCATENATE("'",A1,"'",",").
 
-#**17/10/2023**
+# **17/10/2023**
 Deploying SQL Server SSRS using parameterization
 with @startdate and @endate for input.
 using <> for making condition of equal to
 
-#**18/10/2023**
+# **18/10/2023**
 How to know the execution time plan of an SQL Script.
 EXPLAIN PLAN FOR plan for (SQL script)
 SELECT * FROM TABLE(DBMS.XPLAN.DISPLAY)
 Work on USING GROUP BY, MAX DATETIME
 
-#**19/10/2023**
+# **19/10/2023**
 
-#**20/10/2023**
+# **20/10/2023**
 How to use sum, Max and Min 
 
-#**24/10/2023**
+# **24/10/2023**
 Using Sub query on sum, count on another select count and sum.
 
-#**25/10/2023**
+# **25/10/2023**
 Using Bracket when using Like and so many OR condition in where Like ('%Word%')
 
-#**26/10/2023**
+# **26/10/2023**
 Spooling Records from Oracle toad using Delimited txt and Pipe.
 Convert Txt records to excel
 
-#**30/10/2023**
+# **30/10/2023**
 To get Customers Age using date of birth
 TRUNC(MONTHS_BETWEEN(SYSDATE, DATE_of_birth)/12 as customer_age;
 Condition: BETWEEN 50 and 75
 
-#**31/10/2023**
+# **31/10/2023**
 Used Postgres SQL for Leo transaction Report
 Use Date: date_trunc(d,timestamp)=current_date-interval '1 day'
 
 
-#**02/11/2023**
+# **02/11/2023**
 
 Getting and Automating Report to drop with records of previous day and the records in the next day 6hrs
 Postgress SSRS Report deployment Connection with ODBC Open database connectivity to enable database to connect with other programs.
