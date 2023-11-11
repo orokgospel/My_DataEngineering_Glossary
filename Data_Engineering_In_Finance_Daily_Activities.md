@@ -151,79 +151,79 @@ I have experience using SQL to determine a customer's age by utilizing system da
 # **Day 22**
 26/8/2023
 
-12/10/2023
+**12/10/2023**
 To trim the result of a SQL query using a CASE statement and TRIM, you can use the CASE statement to conditionally apply the TRIM function to the result of the query.
 
-16/10/2023
+**16/10/2023**
 Task1: To generate an SQL code that can trigger an output report when the values in column1 of the table do not have the expected values in column2.
 Task2: In Excel, you can concatenate (combine) three or more values using the CONCATENATE function or the & operator.
 =CONCATENATE("'",A1,"'",",").
 
-17/10/2023
+**17/10/2023**
 Deploying SQL Server SSRS using parameterization
 with @startdate and @endate for input.
 using <> for making condition of equal to
 
-18/10/2023
+**18/10/2023**
 How to know the execution time plan of an SQL Script.
 EXPLAIN PLAN FOR plan for (SQL script)
 SELECT * FROM TABLE(DBMS.XPLAN.DISPLAY)
 Work on USING GROUP BY, MAX DATETIME
 
-19/10/2023
+**19/10/2023**
 
-20/10/2023
+**20/10/2023**
 How to use sum, Max and Min 
 
-24/10/2023
+**24/10/2023**
 Using Sub query on sum, count on another select count and sum.
 
-25/10/2023
+**25/10/2023**
 Using Bracket when using Like and so many OR condition in where Like ('%Word%')
 
-26/10/2023
+**26/10/2023**
 Spooling Records from Oracle toad using Delimited txt and Pipe.
 Convert Txt records to excel
 
-30/10/2023
+**30/10/2023**
 To get Customers Age using date of birth
 TRUNC(MONTHS_BETWEEN(SYSDATE, DATE_of_birth)/12 as customer_age;
 Condition: BETWEEN 50 and 75
 
-31/10/2023
+**31/10/2023**
 Used Postgres SQL for Leo transaction Report
 Use Date: date_trunc(d,timestamp)=current_date-interval '1 day'
 
 
-02/11/2023
+**02/11/2023**
 
 Getting and Automating Report to drop with records of previous day and the records in the next day 6hrs
 Postgress SSRS Report deployment Connection with ODBC Open database connectivity to enable database to connect with other programs.
 
 
-03/11/2023
+**03/11/2023**
 SERVER connection management
 
-06/11/2023
+**06/11/2023**
 Using Regex to remove white spaces or characters in Sql that causes records queried to break:
 regexp_replace(column,'[^A-Z0-9 ]',") newname
 09/11/2023
 SQL python for supervise and unsupervised machine learning model for finance data analytics DW team.
 
 
-07/11/2023
+**07/11/2023**
 How to make number Values like amount to be Negative in a column
 select (Columnname *-1) from table
 
-08/11/2023
+**08/11/2023**
 to determine fraud account
 
-10/11/2023
+**10/11/2023**
 Did First ETL Using SSIS involving moving
 Records from Oracle database to MS Sql server database.
 ETL project with SSIS, orchestrating the seamless migration of records from an Oracle database to a Microsoft SQL Server database.
 
-11/11/2023
+**11/11/2023**
 To create a selected table from two tables joined and queried in Oracle SQL with indexes to help increase query speed.
 -- Step 1: Create the Joined Table
 CREATE TABLE JoinedTable AS
