@@ -221,3 +221,14 @@ to determine fraud account
 10/11/2023
 Did First ETL Using SSIS involving moving
 Records from Oracle database to MS Sql server database.
+
+11/11/2023
+To create a selected table from two tables joined and queried in Oracle SQL with indexes to help increase query speed.
+-- Step 1: Create the Joined Table
+CREATE TABLE JoinedTable AS
+SELECT
+    t1.column1 AS t1_column1,
+    t1.column2 AS t1_column2,
+    t2.column3 AS t2_column3,
+    t2.column4 AS t2_column4
+FROM Table1 t1, Table2 t2 WHERE t1.common_column = t2.common_column;
