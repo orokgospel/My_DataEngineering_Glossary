@@ -235,4 +235,9 @@ FROM Table1 t1, Table2 t2 WHERE t1.common_column = t2.common_column;
 -- Step 2: Create Indexes on the Joined Table
 CREATE INDEX idx_t1_column1 ON JoinedTable(t1_column1);
 CREATE INDEX idx_t2_column3 ON JoinedTable(t2_column3); -- Note: Adjust the column names and data types according to your actual tables.
-
+-- Optional: Analyze the table for statistics
+ANALYZE TABLE JoinedTable COMPUTE STATISTICS;
+-- Optional: Gather optimizer statistics
+EXEC DBMS_STATS.GATHER_TABLE_STATS('YOUR_SCHEMA', 'JoinedTable');
+-- Now you can query the JoinedTable for faster results
+SELECT * FROM JoinedTable WHERE t1_column1 = 'some_value';
