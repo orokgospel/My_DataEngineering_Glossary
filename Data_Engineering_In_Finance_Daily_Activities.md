@@ -190,28 +190,28 @@ To get Customers Age using date of birth
 TRUNC(MONTHS_BETWEEN(SYSDATE, DATE_of_birth)/12 as customer_age;
 Condition: BETWEEN 50 and 75
 
-**31/10/2023**
+#**31/10/2023**
 Used Postgres SQL for Leo transaction Report
 Use Date: date_trunc(d,timestamp)=current_date-interval '1 day'
 
 
-**02/11/2023**
+#**02/11/2023**
 
 Getting and Automating Report to drop with records of previous day and the records in the next day 6hrs
 Postgress SSRS Report deployment Connection with ODBC Open database connectivity to enable database to connect with other programs.
 
 
-**03/11/2023**
+# **03/11/2023**
 SERVER connection management
 
-**06/11/2023**
+# **06/11/2023**
 Using Regex to remove white spaces or characters in Sql that causes records queried to break:
 regexp_replace(column,'[^A-Z0-9 ]',") newname
 09/11/2023
 SQL python for supervise and unsupervised machine learning model for finance data analytics DW team.
 
 
-**07/11/2023**
+# **07/11/2023**
 How to make number Values like amount to be Negative in a column
 select (Columnname *-1) from table
 
