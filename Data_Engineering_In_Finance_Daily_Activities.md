@@ -242,3 +242,7 @@ ANALYZE TABLE JoinedTable COMPUTE STATISTICS;
 EXEC DBMS_STATS.GATHER_TABLE_STATS('YOUR_SCHEMA', 'JoinedTable');
 -- Now you can query the JoinedTable for faster results
 SELECT * FROM JoinedTable WHERE t1_column1 = 'some_value';
+
+
+13/11/2023
+Creating column values as Columns
