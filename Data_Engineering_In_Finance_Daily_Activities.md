@@ -246,3 +246,6 @@ SELECT * FROM JoinedTable WHERE t1_column1 = 'some_value';
 
 13/11/2023
 Creating column values as Columns
+
+14/11/2023
+How to use windows function and partition row to remove duplicates
