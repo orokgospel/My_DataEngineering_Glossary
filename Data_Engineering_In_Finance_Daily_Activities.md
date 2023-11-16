@@ -249,3 +249,7 @@ Creating column values as Columns
 
 14/11/2023
 How to use windows function and partition row to remove duplicates
+
+
+16/11/2023
+AWS to Postgres 
