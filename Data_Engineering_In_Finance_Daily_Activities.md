@@ -253,3 +253,6 @@ How to use windows function and partition row to remove duplicates
 
 16/11/2023
 AWS to Postgres 
+
+17/11/2023
+To get transaction amount with specific conditions:
