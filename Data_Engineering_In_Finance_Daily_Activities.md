@@ -256,3 +256,8 @@ AWS to Postgres
 
 17/11/2023
 To get transaction amount with specific conditions:
+
+
+
+1/12/2023
+Need to Take my Personal Skill Development So serious
