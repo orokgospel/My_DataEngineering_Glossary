@@ -252,7 +252,7 @@ How to use windows function and partition row to remove duplicates
 
 
 16/11/2023
-AWS to Postgres 
+AWS to Postgres with Colleague
 
 17/11/2023
 To get transaction amount with specific conditions:
@@ -261,3 +261,6 @@ To get transaction amount with specific conditions:
 
 1/12/2023
 Need to Take my Personal Skill Development So serious
+
+2/12/2023
+Working from Home 
