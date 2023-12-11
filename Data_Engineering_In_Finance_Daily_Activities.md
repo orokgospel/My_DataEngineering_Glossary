@@ -264,3 +264,7 @@ Need to Take my Personal Skill Development So serious
 
 2/12/2023
 Working from Home 
+
+11/12/2023
+
+Finding the Average of transactions for the past 5years
