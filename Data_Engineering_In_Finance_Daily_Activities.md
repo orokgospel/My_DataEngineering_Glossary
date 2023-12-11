@@ -268,3 +268,7 @@ Working from Home
 11/12/2023
 
 Finding the Average of transactions for the past 5years
+
+11/12/2023
+Knowledge of Reference table or mapping of getting a column value from different value but from same column abd table
+
