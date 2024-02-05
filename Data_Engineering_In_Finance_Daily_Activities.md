@@ -274,3 +274,6 @@ Knowledge of Reference table or mapping of getting a column value from different
 
 04/02/2024
 Took a long break
+05/02/2024
+Using NLV and Coalese in relace values where conditions neccesary 
+and being aware of left join with other where conditions where doing left or right joins
